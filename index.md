@@ -1,8 +1,8 @@
 ### bla bla bla
 
-• [twitter.com/redjade_hu](twitter.com/redjade_hu)
+• [twitter.com/redjade_hu](https://twitter.com/redjade_hu)
 
-• [soc.ialis.me/@jd](soc.ialis.me/@jd)[Mastodon]
+• [soc.ialis.me/@jd](https://soc.ialis.me/@jd)[Mastodon]
 
 » jd.makemedia@gmail.com
 
