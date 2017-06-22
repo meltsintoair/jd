@@ -2,4 +2,5 @@
 blah blah ***blah*** 3
 
  
-{% include_relative jd/_includes/footer.html %}
+
+{% include_relative _includes/footer.html %}
