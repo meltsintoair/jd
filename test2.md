@@ -1,4 +1,4 @@
 
 blah blah ***blah***
 
-{% include /jd/footer.html %}
+{% include /jd/_includes/footer.html %}
