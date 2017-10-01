@@ -1,8 +1,5 @@
-This is my list of english language news sources about Hungary that I regularly read...
+**This is my list of english language news sources about Hungary that I regularly read...**
 
-
-
-([Web](www) / [Fb](www) / [Tw](www) / [rss](www))
 
 Sources I generally agree with or are useful to read
 
@@ -24,7 +21,7 @@ Sources I generally agree with or are useful to read
 
 > (Usually publishes state media **MTI**, which is generally ok for basic facts, etc)
 
-Sources I generally do not agree with, but are important to monitor
+**Sources I generally do not agree with, but are important to monitor
 
 • Zoltan blog  ([Web](www) / [Fb](www) / [Tw](www) / [rss](www))
 
@@ -32,10 +29,12 @@ Sources I generally do not agree with, but are important to monitor
 
 • Hungary Today ([Web](www) / [Fb](www) / [Tw](www) / [rss](www))
 
-
 • 
 
-Just for fun
+**Just for fun
 
 • 'Hungaries - 1632'
 – https://www.facebook.com/hungarianturkishwars/
+
+
+([Web](www) / [Fb](www) / [Tw](www) / [rss](www))
