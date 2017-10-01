@@ -10,7 +10,7 @@ Sources I generally agree with or are useful to read
 
 • Budapest Informer ([Web](https://budapestinformer.com/) / [Fb](https://www.facebook.com/BudapestInformer/) / [Tw](https://twitter.com/budapestinfo) / [rss](http://feeds.feedburner.com/budapestinformer))
 
-• Politics.hu ([Web](http://www.politics.hu) / <!--- [Fb](www) –––> / [Tw](https://twitter.com/politicshu) /  [rss](http://www.politics.hu/feed/))
+• Politics.hu ([Web](http://www.politics.hu) / <!--- [Fb](www) ---> / [Tw](https://twitter.com/politicshu) /  [rss](http://www.politics.hu/feed/))
 
 • Hungarian Spectrum ([Web](http://hungarianspectrum.org) / [Fb](https://www.facebook.com/Hungarian-Spectrum-222092944468208) / [Tw](https://twitter.com/esbalogh) / [rss](www))
 
