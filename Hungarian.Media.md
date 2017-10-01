@@ -4,19 +4,19 @@
 
 Sources I generally agree with or are useful to read
 
-• Budapest Beacon ([Web](https://budapestbeacon.com) / [Fb](https://www.facebook.com/BudapestBeacon) / [Tw](https://twitter.com/budapestbeacon) / [rss](www))
+• Budapest Beacon ([Web](https://budapestbeacon.com) / [Fb](https://www.facebook.com/BudapestBeacon) / [Tw](https://twitter.com/budapestbeacon) / [rss](https://budapestbeacon.com/feed/))
 
-• Budapest Business Journal ([Web](http://www.bbj.hu/) / [Fb](https://www.facebook.com/budapestbusinessjournal/) / [Tw](www) /  [rss](www))
+• Budapest Business Journal ([Web](http://www.bbj.hu/) / [Fb](https://www.facebook.com/budapestbusinessjournal/) / <!--- [Tw](www) / --->  [rss](https://bbj.hu/site/assets/rss/rss.php))
 
 • Budapest Informer ([Web](https://budapestinformer.com/) / [Fb](https://www.facebook.com/BudapestInformer/) / [Tw](https://twitter.com/budapestinfo) / [rss](http://feeds.feedburner.com/budapestinformer))
 
 • Politics.hu ([Web](http://www.politics.hu) / <!--- [Fb](www) / --->  [Tw](https://twitter.com/politicshu) /  [rss](http://www.politics.hu/feed/))
 
-• Hungarian Spectrum ([Web](http://hungarianspectrum.org) / [Fb](https://www.facebook.com/Hungarian-Spectrum-222092944468208) / [Tw](https://twitter.com/esbalogh) / [rss](www))
+• Hungarian Spectrum ([Web](http://hungarianspectrum.org) / [Fb](https://www.facebook.com/Hungarian-Spectrum-222092944468208) / [Tw](https://twitter.com/esbalogh) / [rss](http://hungarianspectrum.org/feed/))
 
 > Detailed articulate & detailed blog about Hungarian politics by Eva S. Balogh (liberal)
 
-• Atlatso ([Web](https://english.atlatszo.hu) / [Fb](https://www.facebook.com/atlatszo.hu) / [Tw](https://twitter.com/Atlatszo) /  [rss](www))
+• Atlatso ([Web](https://english.atlatszo.hu) / [Fb](https://www.facebook.com/atlatszo.hu) / [Tw](https://twitter.com/Atlatszo) /  [rss](https://english.atlatszo.hu/feed/))
 
 • Daily News Hungary ([Web](https://dailynewshungary.com/) / [Fb](https://www.facebook.com/dailynewshungary) / [Tw](https://twitter.com/dnewshungary) / [rss](www))
 
