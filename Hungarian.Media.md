@@ -21,6 +21,8 @@ Sources I generally agree with or are useful to read
 
 > (Usually publishes state media **MTI**, which is generally ok for basic facts, etc)
 
+• Reuters search for [Hungary](https://www.reuters.com/search/news?blob=hungary&sortBy=date&dateRange=all)
+
 **Sources I generally do not agree with, but are important to monitor**
 
 • Zoltan blog  ([Web](www) / [Fb](www) / [Tw](www) / [rss](www))
