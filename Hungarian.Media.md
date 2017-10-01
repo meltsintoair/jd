@@ -39,4 +39,8 @@ Sources I generally agree with or are useful to read
 • 'Hungaries - 1632'
 – https://www.facebook.com/hungarianturkishwars/
 
-[comment] ([Web](www) / [Fb](www) / [Tw](www) / [rss](www))
+<!--- 
+
+([Web](www) / [Fb](www) / [Tw](www) / [rss](www)) 
+
+--->
