@@ -16,9 +16,7 @@ Sources I generally agree with or are useful to read
 
 • Atlatso ([Web](www) / [Fb](www) / [Tw](www))
 
-• Daily News Hungary ([Web](https://dailynewshungary.com/) / [Fb](https://www.facebook.com/dailynewshungary) / [Tw](https://twitter.com/dnewshungary))
-
-(Usually publishes state media **MTI**, which is generally ok for basic facts, etc)
+• Daily News Hungary ([Web](https://dailynewshungary.com/) / [Fb](https://www.facebook.com/dailynewshungary) / [Tw](https://twitter.com/dnewshungary)) >(Usually publishes state media **MTI**, which is generally ok for basic facts, etc)
 
 Sources I generally do not agree with, but are important to monitor
 
