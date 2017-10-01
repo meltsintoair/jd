@@ -1,5 +1,10 @@
 This is my list of english language news sources about Hungary that I regularly read...
 
+
+[link to Google!](http://google.com)
+
+[Web](www)
+
 Sources I generally agree with or are useful to read
 
 • Budapest Beacon (Web / Fb / Tw)
