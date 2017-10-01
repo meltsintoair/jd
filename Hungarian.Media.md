@@ -1,29 +1,30 @@
 This is my list of english language news sources about Hungary that I regularly read...
 
 
-[link to Google!](http://google.com)
 
-[Web](www)
+([Web](www) / [Fb](www) / [Tw](www))
 
 Sources I generally agree with or are useful to read
 
-• Budapest Beacon (Web / Fb / Tw)
+• Budapest Beacon ([Web](www) / [Fb](www) / [Tw](www))
 
-• Budapest Business Journal (Web / Fb / Tw)
+• Budapest Business Journal ([Web](www) / [Fb](www) / [Tw](www))
 
-• Politics.hu (Web / Fb / Tw)
+• Politics.hu ([Web](www) / [Fb](www) / [Tw](www))
 
-• Hungarian Spectrum (Web / Fb / Tw)
+• Hungarian Spectrum ([Web](www) / [Fb](www) / [Tw](www))
 
-• Atlatso (Web / Fb / Tw)
+• Atlatso ([Web](www) / [Fb](www) / [Tw](www))
+
 
 Sources I generally do not agree with, but are important to monitor
 
-• Zoltan blog  (Web / Fb / Tw)
+• Zoltan blog  ([Web](www) / [Fb](www) / [Tw](www))
 
-• PM's site (Web / Fb / Tw)
+• PM's site ([Web](www) / [Fb](www) / [Tw](www))
 
-• Hungary Today (Web / Fb / Tw)
+• Hungary Today ([Web](www) / [Fb](www) / [Tw](www))
+
 
 • 
 
