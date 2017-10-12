@@ -1,4 +1,4 @@
-### How to make text out of audio and images ###
+### How to make text out of audio and images
 
 I have been collecting interesting and obcue webservices for a while and enither organizing them well, nor sharing them with the world.  Let this page be that space...
 
