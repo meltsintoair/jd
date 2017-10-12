@@ -7,7 +7,7 @@ I have been collecting interesting and obcue webservices for a while and enither
 If you have a photo or screenshot of some words and want the text, do the following
 
 * get a Google account, sign into it
-   * go to https://keep.google.com
+   * go to [https://keep.google.com](https://keep.google.com)
    * drag the jpeg/gif/png file to the browser screen where it says 'Take a note...'
    * It will upload (this might take a few moment, be pateint
    * click on the 3 verticle dots on the right side
