@@ -117,9 +117,9 @@ a {
  * Blockquotes
  */
 blockquote {
-  color: $black-color;
+  color: $grey-color;
   border-left: 1px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
+  padding-left: $spacing-unit / 1;
   @include relative-font-size(1);
   letter-spacing: 0px;
   font-style: normal;
