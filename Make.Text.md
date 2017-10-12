@@ -26,5 +26,5 @@ If you have a photo or screenshot of some words and want the text, do the follow
     * Us http://Deepgram.com to automatically transcribe
     upload a mp3 or other audio/video file to their server and give it a moment and a transcription will automatically appear.
     
-    DeepGram does not make a perfect transcription, and it will not provide punctuation and fix your bad grammar, and it will often misjudge the words.  You will have to go through the text and audio together several time to fine tune the text to perfection.  But so much time and effort is saved with this nice webservice.
+    DeepGram does not make a perfect transcription, and it will not provide punctuation and fix your bad grammar, and it will often misjudge the words.  You will have to go through the text and audio together several time to fine tune the text to perfection.  But so much time and effort is saved with this nice webservice. 
     
