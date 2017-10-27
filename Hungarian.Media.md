@@ -39,7 +39,7 @@ Sources I generally agree with or are useful to read
 > He is the #1 spokesman for the PM, always worth reading him 
 
 • Hungary Today ([Web](http://hungarytoday.hu/) / [Fb](https://www.facebook.com/hungarytoday/) / [Tw](https://twitter.com/HungaryToday) / [rss](http://hungarytoday.hu/feed))
-> State sponsored 'independent' media
+> 'Independent' media, always pro-Fidesz
 
 • 
 
