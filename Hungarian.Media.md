@@ -11,7 +11,7 @@ Sources I generally agree with or are useful to read
 
 • Budapest Business Journal ([Web](http://www.bbj.hu/) / [Fb](https://www.facebook.com/budapestbusinessjournal/) / <!--- [Tw](www) / --->  [rss](https://bbj.hu/site/assets/rss/rss.php))
 
-• The Budapest Times ([Web](http://www.budapesttimes.hu/) / [Fb](https://www.facebook.com/BudapestTimes/) / [Tw](https://twitter.com/budapesttimes) <!--- / [rss](www) / ---> )
+• The Budapest Times ([Web](http://www.budapesttimes.hu/) / [Fb](https://www.facebook.com/BudapestTimes/) / [Tw](https://twitter.com/budapesttimes) <!--- / [rss](www) ---> )
 
 
 • Budapest Informer ([Web](https://budapestinformer.com/) / [Fb](https://www.facebook.com/BudapestInformer/) / [Tw](https://twitter.com/budapestinfo) / [rss](http://feeds.feedburner.com/budapestinformer))
