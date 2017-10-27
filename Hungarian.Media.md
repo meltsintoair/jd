@@ -4,7 +4,7 @@
 
 Sources I generally agree with or are useful to read
 
-• BudaPost.eu ([Web](http://www.budapost.eu/) – an excellent synopsis of Hungarian news, mysteriously has now Facebook or Twitter presence.
+• BudaPost.eu ([Web](http://www.budapost.eu/)) – an excellent synopsis of Hungarian news, mysteriously has now Facebook or Twitter presence.
 
 • Budapest Beacon ([Web](https://budapestbeacon.com) / [Fb](https://www.facebook.com/BudapestBeacon) / [Tw](https://twitter.com/budapestbeacon) / [rss](https://budapestbeacon.com/feed/))
 
