@@ -43,3 +43,7 @@ October 30, 2017 – [https://soc.ialis.me/@jd/98918205170949710](https://soc.ia
 
 Has 'online politics' surpassed real life politics? Is organising only a distration, a self-distraction?   
 November 20, 2017 – [https://soc.ialis.me/@jd/99038120318728470](https://soc.ialis.me/@jd/99038120318728470)
+
+• New Lucy Parsons Biography review   
+November 27, 2017, – [https://soc.ialis.me/@jd/99076281253819269](https://soc.ialis.me/@jd/99076281253819269)
+
