@@ -54,7 +54,7 @@ December 18, 2017 – [https://soc.ialis.me/@jd/99194842200702751](https://soc.i
 • Kropotkin and Christmas   
 December 25, 2017 – [https://soc.ialis.me/@jd/99235643530424772](https://soc.ialis.me/@jd/99235643530424772)
 
-• Political predictions for your country or the world for 2018?
+• Political predictions for your country or the world for 2018?   
 January 1, 2018 – [https://soc.ialis.me/@jd/99274942419093391](https://soc.ialis.me/@jd/99274942419093391)
 
 • Neocommunalism?   
