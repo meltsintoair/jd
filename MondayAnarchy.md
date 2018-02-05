@@ -57,18 +57,18 @@ December 25, 2017 – [https://soc.ialis.me/@jd/99235643530424772](https://soc.i
 • Political predictions for your country or the world for 2018?
 January 1, 2018 – [https://soc.ialis.me/@jd/99274942419093391](https://soc.ialis.me/@jd/99274942419093391)
 
-• Neocommunalism?
+• Neocommunalism?   
 January 8, 2018 – [https://soc.ialis.me/@jd/99315207984321637](https://soc.ialis.me/@jd/99315207984321637)
 
-• Has the 'left' been overtaken by conspiracizing as analysis
+• Has the 'left' been overtaken by conspiracizing as analysis   
 January 15, 2018 – [https://soc.ialis.me/@jd/99353638973145314](https://soc.ialis.me/@jd/99353638973145314)
 
-• Rojava: Urgent Message from an Anarchist Comrade in Afrin #Syria
+• Rojava: Urgent Message from an Anarchist Comrade in Afrin #Syria   
 January 22, 2018 – [https://soc.ialis.me/@jd/99394155935574767](https://soc.ialis.me/@jd/99394155935574767)
 
-• Anarchist Youtube Channels
+• Anarchist Youtube Channels   
 January 29, 2018 – [https://soc.ialis.me/@jd/99432517626217734](https://soc.ialis.me/@jd/99432517626217734)
 
-• Q: your favourite political cartoonist?
+• Q: your favourite political cartoonist?   
 February 5, 2018 – [https://soc.ialis.me/@jd/99472503025914179](https://soc.ialis.me/@jd/99472503025914179)
 
