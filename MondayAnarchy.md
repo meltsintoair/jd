@@ -48,10 +48,10 @@ November 27, 2017, – [https://soc.ialis.me/@jd/99076281253819269](https://soc.
 • Happy Birthday Pyotr Alexeyevich #Kropotkin   
 December 11, 2017, – [https://soc.ialis.me/@jd/99155430284673195](https://soc.ialis.me/@jd/99155430284673195)
 
-• Is #Christmas really a social Potlatch system to redistribute wealth?
+• Is #Christmas really a social Potlatch system to redistribute wealth?   
 December 18, 2017 – [https://soc.ialis.me/@jd/99194842200702751](https://soc.ialis.me/@jd/99194842200702751)
 
-• Kropotkin and Christmas
+• Kropotkin and Christmas   
 December 25, 2017 – [https://soc.ialis.me/@jd/99235643530424772](https://soc.ialis.me/@jd/99235643530424772)
 
 • Political predictions for your country or the world for 2018?
